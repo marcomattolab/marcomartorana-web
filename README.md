@@ -12,9 +12,9 @@ It serves as a platform to showcase my brand identity and engage with my audienc
 
 The website is built using the following technologies:
 
-- React
 - HTML5
 - CSS3
+- React
 
 ## Installation
 
